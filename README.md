@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konstantinavasileva" alt="konstantinavasileva" /></a> </p>
 
-- 📫 How to reach me **konstantina@mail.bg**
+- 📫 How to reach me **konstantinavasileva@gmail.com**
 
 - ⚡ Fun fact **I think I am fun**
 
@@ -18,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konstantinavasileva&show_icons=true&locale=en&layout=compact" alt="konstantinavasileva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konstantinavasileva&show_icons=true&locale=en" alt="konstantinavasileva" /></p>
+        
